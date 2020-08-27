@@ -7,10 +7,14 @@
 
 <p>The whole ensemble is a final product, its operation being based on the communication between the two components described.</p>
 
-  <h1>CNC engraver</h1>
+  <h1 align="center">CNC engraver</h1>
   <p align="center"><img src="https://i.ibb.co/pvrkHLt/CNC.jpg"></p>
-  <p align="center"><img src="https://i.ibb.co/jV0SWXp/FLOW-APP.jpg"></p>  
+  <h1 align="center">Connections</h1>
   <p align="center"><img src="https://i.ibb.co/khCg1Cg/CONN.png"></p>
+   
+  <h1 align="center">LaserTool - engraving steps</h1>
+ 
+  <p align="center"><img src="https://i.ibb.co/jV0SWXp/FLOW-APP.jpg"></p>  
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=RPAiRfplz0c">
